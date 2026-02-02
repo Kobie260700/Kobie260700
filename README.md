@@ -1,5 +1,5 @@
 <h1>Olá, eu sou o Guilherme! <br/>
-Engenharia de Computação • Cybersecurity • SOC & Incident Response
+Graduando em Engenharia de Computação • Cybersecurity • SOC & Incident Response
 </h1>
 
 <h2>👨‍💻 Sobre mim</h2>
