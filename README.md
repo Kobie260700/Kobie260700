@@ -17,6 +17,29 @@ agregando visão técnica de baixo nível à área de cibersegurança.
 Busco oportunidades como <b>Analista SOC (N1/N2)</b>, <b>Blue Team</b> ou
 <b>Segurança Defensiva</b>.
 
+<h2>👨‍💻 Projetos em Cibersegurança</h2>
+
+- <b>SOC & Blue Team</b>
+  - <a href="https://github.com/guisiltex/soc-log-analysis">SOC Log Analysis</a>
+    <br/>Análise de logs e eventos de segurança simulando fluxo de um SOC N1, incluindo triagem, investigação e priorização de alertas.
+  - <a href="https://github.com/guisiltex/network-traffic-analysis">Network Traffic Analysis</a>
+    <br/>Análise de tráfego de rede com Wireshark para identificação de comportamentos suspeitos e possíveis incidentes.
+
+- <b>Pentest & Segurança Ofensiva (Ambiente Controlado)</b>
+  - <a href="https://github.com/guisiltex/linux-pentest-labs">Linux Pentest Labs</a>
+    <br/>Laboratórios de enumeração, exploração básica e pós-exploração em sistemas Linux (HTB e TryHackMe).
+  - <a href="https://github.com/guisiltex/wifi-security-labs">Wi-Fi Security Labs</a>
+    <br/>Auditoria de redes Wi-Fi utilizando Aircrack-ng e Bettercap.
+
+- <b>Threat Intelligence & Frameworks</b>
+  - <a href="https://github.com/guisiltex/mitre-attck-studies">MITRE ATT&CK Studies</a>
+    <br/>Estudos e mapeamento de técnicas e táticas do MITRE ATT&CK a partir de cenários reais de ataque.
+
+- <b>Pesquisa Aplicada em Cibersegurança</b>
+  - <a href="https://github.com/guisiltex/biometric-security-ai">Biometric Security & AI</a>
+    <br/>Pesquisa em spoofing biométrico, deepfakes e estratégias de mitigação em autenticação biométrica com IA.
+
+
 <h2>🛡️ Áreas de Atuação</h2>
 
 - <b>SOC (Security Operations Center)</b>
