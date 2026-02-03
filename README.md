@@ -6,16 +6,22 @@ Graduando em Engenharia de Computação • Cybersecurity • SOC & Incident Res
 
 Sou <b>graduando em Engenharia de Computação pela UNIFEI</b>, com foco em 
 <b>Segurança da Informação</b>, <b>SOC</b>, <b>Resposta a Incidentes</b> e 
-<b>Defesa Cibernética</b>. Atuei como <b>bolsista de Iniciação Científica pelo CNPq</b>,
-pesquisando <b>vulnerabilidades e contra-medidas em autenticação biométrica com uso de Inteligência Artificial</b>,
-com ênfase em <b>spoofing biométrico</b>, <b>deepfakes</b> e mitigação de ataques.
+<b>Segurança Defensiva (Blue Team)</b>. Atuei como <b>bolsista de Iniciação Científica pelo CNPq</b>,
+desenvolvendo pesquisa sobre <b>vulnerabilidades e contra-medidas em autenticação biométrica utilizando Inteligência Artificial</b>,
+com ênfase em <b>spoofing biométrico</b>, <b>deepfakes</b> e técnicas de mitigação de ataques.
 
 Atualmente, sou <b>pós-graduando e bolsista do Programa CI Digital (MCTI/Softex)</b>,
 com formação em <b>Verilog/HDL</b>, <b>simulação de hardware</b> e <b>arquiteturas digitais</b>,
-agregando visão técnica de baixo nível à área de cibersegurança.
+o que agrega uma visão técnica de baixo nível e maior compreensão de sistemas à atuação em cibersegurança.
 
-Busco oportunidades como <b>Analista SOC (N1/N2)</b>, <b>Blue Team</b> ou
-<b>Segurança Defensiva</b>.
+Possuo também <b>interesse e experiência acadêmica em Segurança Ofensiva (Red Team)</b>,
+por meio de <b>laboratórios controlados, CTFs e estudos de técnicas de ataque</b>,
+com foco em compreender vetores de ameaça para fortalecer estratégias defensivas.
+
+Busco oportunidades de <b>estágio</b> ou <b>posição júnior</b> nas áreas de 
+<b>SOC</b>, <b>Resposta a Incidentes</b>, <b>Segurança Defensiva</b> e 
+<b>Segurança da Informação</b>.
+
 
 <h2>👨‍💻 Projetos em Cibersegurança</h2>
 
