@@ -154,12 +154,29 @@ Site estático publicado com GitHub Pages para apresentar formação, experiênc
 
 ## Certificações
 
-- Certified Secure Computer User (CSCU)
-- Network Defense Essentials
+### Desenvolvimento de Software e Cloud
+
+- Oracle Certified Professional: Java SE 21 Developer
+- AWS Certified Developer – Associate
+- GitHub Foundations
+
+### Inteligência Artificial
+
+- Microsoft Certified: Azure AI Cloud Developer Associate
+- Microsoft Certified: Azure AI Apps and Agents Developer Associate
+- Databricks Certified Generative AI Engineer Associate
+
+### Sistemas e Segurança de Software
+
 - Linux Essentials
-- WiFi Hacking Enterprise 2.0
 - Software Security — University of Maryland
 - Segurança e Usabilidade — University of Maryland
+
+### Segurança da Informação
+
+- Certified Secure Computer User (CSCU)
+- Network Defense Essentials
+- WiFi Hacking Enterprise 2.0
 
 ## Links profissionais
 
