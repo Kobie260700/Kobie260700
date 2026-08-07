@@ -2,6 +2,18 @@
 
 **Desenvolvimento de Software • Backend • Inteligência Artificial • Cloud • Segurança da Informação**
 
+<p align="center">
+  <img
+    src="./assets/unifei-logo.png"
+    alt="Universidade Federal de Itajubá - UNIFEI"
+    height="48"
+  >
+</p>
+
+<p align="center">
+  <strong>🎓 Engenharia de Computação — Universidade Federal de Itajubá (UNIFEI)</strong>
+</p>
+
 Graduando em Engenharia de Computação pela Universidade Federal de Itajubá (UNIFEI), com experiência prática em desenvolvimento de software, pesquisa aplicada em Inteligência Artificial e formação complementar em sistemas digitais.
 
 <p>
