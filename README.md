@@ -1,313 +1,168 @@
-<h1>Olá, eu sou o Guilherme! <br/>
-Cyber Security • Software Development • IA • Graduando em Engenharia de Computação
-</h1>
+# Olá, eu sou o Guilherme Teixeira
 
-<h2>👨‍💻 Sobre mim</h2>
+**Desenvolvimento de Software • Backend • Inteligência Artificial • Cloud • Segurança da Informação**
 
-Sou <b>graduando em Engenharia de Computação pela UNIFEI</b>, com interesse em
-<b>Cyber Security</b>, <b>Segurança da Informação</b>, <b>SOC</b>,
-<b>Resposta a Incidentes</b> e <b>Inteligência Artificial</b>.
-
-Atualmente atuo como <b>estagiário em desenvolvimento de software</b>,
-participando das etapas de análise, implementação, testes, documentação e
-manutenção de produtos tecnológicos. No dia a dia, trabalho com
-<b>Java</b>, <b>Python</b>, integração e consumo de APIs, bancos de dados
-relacionais e não relacionais, arquitetura baseada em microserviços em nuvem e
-desenvolvimento de agentes de Inteligência Artificial aplicados a produtos e processos.
-
-Também colaboro na implantação, monitoramento e melhoria contínua de aplicações,
-elaboração de documentação técnica e aplicação de boas práticas de
-desenvolvimento, versionamento e segurança da informação.
-
-Fui <b>bolsista de Iniciação Científica (PIBITI/CNPq)</b>, desenvolvendo uma
-pesquisa sobre <b>vulnerabilidades e contramedidas em autenticação biométrica
-utilizando Inteligência Artificial</b>, com foco em
-<b>spoofing biométrico</b>, <b>deepfakes</b>,
-<b>FaceNet</b>, <b>InsightFace</b>, <b>liveness detection</b> e técnicas de mitigação.
-
-Atualmente também sou <b>bolsista do Programa CI Digital</b>, iniciativa do
-<b>MCTI</b> em parceria com a <b>Softex</b>, <b>CEPEDI</b>,
-<b>INATEL</b> e instituições parceiras, onde aprofundo conhecimentos em
-<b>Arquitetura de Computadores</b>, <b>Verilog HDL</b>,
-<b>Universal Verification Methodology (UVM)</b>,
-<b>projeto de hardware digital</b>, <b>síntese</b> e
-<b>verificação funcional</b>, ampliando minha visão sobre sistemas computacionais
-desde o hardware até aplicações em software.
-
-Busco oportunidades para atuar nas áreas de
-<b>Cyber Security</b>,
-<b>Segurança da Informação</b>,
-<b>SOC</b>,
-<b>Resposta a Incidentes</b>,
-<b>Governança</b> e
-<b>Desenvolvimento de Soluções Seguras</b>.
-
-<hr/>
-
-<h2>💼 Experiência Profissional</h2>
-
-<ul>
-  <li><b>Estagiário em Desenvolvimento de Software</b>
-    <ul>
-      <li>Desenvolvimento e manutenção de aplicações utilizando Java e Python.</li>
-      <li>Integração e consumo de APIs REST.</li>
-      <li>Desenvolvimento de soluções utilizando bancos de dados relacionais e NoSQL.</li>
-      <li>Participação em projetos baseados em arquitetura de microserviços em nuvem.</li>
-      <li>Desenvolvimento de agentes de Inteligência Artificial aplicados a produtos e processos.</li>
-      <li>Implantação, monitoramento e melhoria contínua de aplicações.</li>
-      <li>Elaboração de documentação técnica.</li>
-      <li>Aplicação de boas práticas de desenvolvimento, versionamento e segurança da informação.</li>
-    </ul>
-  </li>
-</ul>
-
-<hr/>
-
-<h2>🎓 Pesquisa e Formação</h2>
-
-<ul>
-
-<li><b>Bolsista PIBITI/CNPq — UNIFEI</b>
-<ul>
-<li>Pesquisa em autenticação biométrica utilizando Inteligência Artificial.</li>
-<li>Análise de vulnerabilidades em sistemas biométricos.</li>
-<li>Estudo de ataques utilizando Deepfakes.</li>
-<li>FaceNet, InsightFace e técnicas de Liveness Detection.</li>
-<li>Desenvolvimento de estratégias de mitigação contra ataques biométricos.</li>
-<li>Produção de documentação técnica e apresentação de resultados científicos.</li>
-</ul>
-</li>
-
-<li><b>Bolsista Programa CI Digital (MCTI • Softex)</b>
-<ul>
-<li>Arquitetura de Computadores.</li>
-<li>Projeto Digital utilizando Verilog HDL.</li>
-<li>Universal Verification Methodology (UVM).</li>
-<li>Verificação Funcional.</li>
-<li>Síntese de Circuitos Digitais.</li>
-<li>Sistemas Embarcados.</li>
-</ul>
-</li>
-
-</ul>
-
-<hr/>
-
-<h2>👨‍💻 Projetos em Cibersegurança</h2>
-
-<ul>
-
-<li><b>SOC & Segurança Defensiva</b>
-<ul>
-
-<li>
-<a href="https://github.com/guisiltex/soc-log-analysis">SOC Log Analysis</a><br/>
-Análise de logs e eventos de segurança simulando o fluxo de um SOC N1,
-incluindo triagem, investigação e priorização de alertas.
-</li>
-
-<li>
-<a href="https://github.com/guisiltex/network-traffic-analysis">Network Traffic Analysis</a><br/>
-Análise de tráfego de rede utilizando Wireshark para identificação de
-comportamentos suspeitos e investigação de incidentes.
-</li>
-
-</ul>
-</li>
-
-<li><b>Pentest & Segurança Ofensiva (Laboratórios)</b>
-
-<ul>
-
-<li>
-<a href="https://github.com/guisiltex/linux-pentest-labs">Linux Pentest Labs</a><br/>
-Laboratórios de enumeração, exploração básica e pós-exploração em ambientes Linux.
-</li>
-
-<li>
-<a href="https://github.com/guisiltex/wifi-security-labs">Wi-Fi Security Labs</a><br/>
-Auditoria de redes Wi-Fi utilizando Aircrack-ng e Bettercap.
-</li>
-
-</ul>
-
-</li>
-
-<li><b>Threat Intelligence</b>
-
-<ul>
-
-<li>
-<a href="https://github.com/guisiltex/mitre-attck-studies">MITRE ATT&CK Studies</a><br/>
-Mapeamento de técnicas e táticas do framework MITRE ATT&CK em cenários de ataque.
-</li>
-
-</ul>
-
-</li>
-
-<li><b>Pesquisa Aplicada em Cibersegurança</b>
-
-<ul>
-
-<li>
-<a href="https://github.com/guisiltex/biometric-security-ai">Biometric Security & AI</a><br/>
-Pesquisa sobre spoofing biométrico, Deepfakes e autenticação facial baseada em IA.
-</li>
-
-</ul>
-
-</li>
-
-</ul>
-
-<hr/>
-
-<h2>🛡️ Áreas de Interesse</h2>
-
-<ul>
-
-<li>Cyber Security</li>
-<li>Security Operations Center (SOC)</li>
-<li>Resposta a Incidentes</li>
-<li>Segurança Defensiva (Blue Team)</li>
-<li>Governança em Segurança da Informação</li>
-<li>Gestão de Vulnerabilidades</li>
-<li>Threat Intelligence</li>
-<li>Análise de Logs</li>
-<li>Segurança de Redes</li>
-<li>Pesquisa Aplicada em Segurança</li>
-
-</ul>
-
-<hr/>
-
-<h2>🧪 Experiência Prática</h2>
-
-<ul>
-
-<li><b>Segurança da Informação</b>
-
-<ul>
-
-<li>Análise de tráfego utilizando Wireshark.</li>
-
-<li>Investigação de eventos de segurança.</li>
-
-<li>Laboratórios de Pentest em ambientes controlados.</li>
-
-<li>Noções práticas de SIEM e fluxo operacional de SOC.</li>
-
-<li>Hardening básico em ambientes Linux.</li>
-
-</ul>
-
-</li>
-
-<li><b>Desenvolvimento de Software</b>
-
-<ul>
-
-<li>Java.</li>
-
-<li>Python.</li>
-
-<li>APIs REST.</li>
-
-<li>SQL e NoSQL.</li>
-
-<li>Microserviços.</li>
-
-<li>Git.</li>
-
-<li>Documentação Técnica.</li>
-
-</ul>
-
-</li>
-
-<li><b>Inteligência Artificial</b>
-
-<ul>
-
-<li>Agentes de IA.</li>
-
-<li>Autenticação Biométrica.</li>
-
-<li>Deep Learning aplicado à Visão Computacional.</li>
-
-<li>FaceNet.</li>
-
-<li>InsightFace.</li>
-
-<li>Liveness Detection.</li>
-
-</ul>
-
-</li>
-
-</ul>
-
-<hr/>
-
-<h2>🛠️ Tecnologias</h2>
-
-<b>Linguagens</b>
+Graduando em Engenharia de Computação pela Universidade Federal de Itajubá (UNIFEI), com experiência prática em desenvolvimento de software, pesquisa aplicada em Inteligência Artificial e formação complementar em sistemas digitais.
 
 <p>
-
-Java • Python • SQL • Verilog HDL
-
+  <a href="https://kobie260700.github.io/">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-0B1220?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio">
+  </a>
+  <a href="https://www.linkedin.com/in/guilherme-teixeira-66076215b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Kobie260700">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
 
-<b>Cyber Security</b>
+## Sobre mim
 
-<p>
+Sou graduando em Engenharia de Computação pela Universidade Federal de Itajubá (UNIFEI) e atualmente atuo como estagiário em Desenvolvimento de Software.
 
-Wireshark • Nmap • Burp Suite • Aircrack-ng • Bettercap • Hydra • LinPEAS
+No dia a dia, trabalho com Java, Python, APIs REST, bancos de dados relacionais e não relacionais, integração entre sistemas, documentação técnica, versionamento de código e desenvolvimento de soluções utilizando Inteligência Artificial.
 
-</p>
+Também fui bolsista PIBITI/CNPq em pesquisa envolvendo autenticação biométrica, reconhecimento facial, Deepfakes, FaceNet, InsightFace e mecanismos de liveness detection.
 
-<b>Banco de Dados</b>
+Atualmente participo do Programa CI Digital, iniciativa do MCTI/Softex, aprofundando conhecimentos em Arquitetura de Computadores, Verilog HDL, UVM, projeto digital, verificação funcional e sistemas embarcados.
 
-<p>
+Tenho interesse principalmente em Desenvolvimento Backend, Engenharia de Software, Inteligência Artificial, Cloud e Segurança de Software.
 
-SQLite • PostgreSQL • MySQL
+## Experiência em Desenvolvimento de Software
 
-</p>
+**Estagiário em Desenvolvimento de Software**
 
-<b>Cloud & Desenvolvimento</b>
+- Desenvolvimento e manutenção de aplicações utilizando Java e Python
+- Integração e consumo de APIs REST
+- Utilização de bancos de dados relacionais e NoSQL
+- Participação em aplicações baseadas em microserviços
+- Integração entre sistemas
+- Desenvolvimento de agentes e soluções utilizando Inteligência Artificial
+- Monitoramento e melhoria contínua de aplicações
+- Elaboração de documentação técnica
+- Versionamento com Git e GitHub
+- Aplicação de boas práticas de desenvolvimento e segurança de software
 
-<p>
+## Projetos em Destaque
 
-Git • REST APIs • Microservices
+### [Biometria, Inteligência Artificial e Deepfakes](https://github.com/Kobie260700/deepfake-tcc)
 
-</p>
+Projeto acadêmico voltado à análise de vulnerabilidades e estratégias de mitigação em sistemas de autenticação biométrica e videoconferências, utilizando técnicas de reconhecimento facial, Deepfakes e liveness detection.
 
-<b>Frameworks & Conceitos</b>
+**Tecnologias verificadas:** Python, OpenCV, InsightFace, ONNX Runtime
 
-<p>
+### [Sistema Financeiro Pessoal](https://github.com/Kobie260700/FINANCEIRO)
 
-MITRE ATT&CK • UVM • Segurança da Informação • Liveness Detection
+Aplicação para organização e acompanhamento financeiro, com foco em controle de receitas, despesas, recorrências, categorias, backup local e visualização de informações.
 
-</p>
+**Tecnologias verificadas:** Python, Streamlit, SQLite, Pandas, Matplotlib, Plotly
 
-<hr/>
+### [Portfólio Profissional](https://github.com/Kobie260700/Kobie260700.github.io)
 
-<h2>📜 Certificações</h2>
+Site estático publicado com GitHub Pages para apresentar formação, experiências, projetos, tecnologias e links profissionais.
 
-<ul>
+**Tecnologias verificadas:** HTML, CSS, GitHub Pages
 
-<li>Certified Secure Computer User (CSCU)</li>
+## Pesquisa e Formação
 
-<li>Network Defense Essentials</li>
+### Bolsista PIBITI/CNPq — UNIFEI
 
-<li>Linux Essentials</li>
+- Inteligência Artificial aplicada à autenticação biométrica
+- Reconhecimento facial
+- Análise de ataques com Deepfakes
+- FaceNet
+- InsightFace
+- Liveness Detection
+- Estratégias de mitigação
+- Produção científica e documentação técnica
 
-<li>WiFi Hacking Enterprise 2.0</li>
+### Programa CI Digital — MCTI • Softex
 
-<li>Software Security — University of Maryland</li>
+- Arquitetura de Computadores
+- Projeto de sistemas digitais
+- Verilog HDL
+- Universal Verification Methodology (UVM)
+- Verificação funcional
+- Testbenches
+- Síntese digital
+- Sistemas Embarcados
 
-<li>Segurança e Usabilidade — University of Maryland</li>
+## Tecnologias
 
-</ul>
+**Linguagens**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Verilog HDL](https://img.shields.io/badge/Verilog%20HDL-4B5563?style=flat-square)
+
+**Backend**
+
+![APIs REST](https://img.shields.io/badge/APIs%20REST-0F172A?style=flat-square)
+![Microserviços](https://img.shields.io/badge/Microservi%C3%A7os-2563EB?style=flat-square)
+
+**Banco de Dados**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**Desenvolvimento e DevOps**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**Inteligência Artificial**
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![FaceNet](https://img.shields.io/badge/FaceNet-111827?style=flat-square)
+![InsightFace](https://img.shields.io/badge/InsightFace-111827?style=flat-square)
+![ONNX Runtime](https://img.shields.io/badge/ONNX%20Runtime-005CED?style=flat-square&logo=onnx&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**Sistemas Digitais**
+
+![Verilog HDL](https://img.shields.io/badge/Verilog%20HDL-4B5563?style=flat-square)
+![UVM](https://img.shields.io/badge/UVM-334155?style=flat-square)
+![Arquitetura de Computadores](https://img.shields.io/badge/Arquitetura%20de%20Computadores-475569?style=flat-square)
+![Sistemas Embarcados](https://img.shields.io/badge/Sistemas%20Embarcados-475569?style=flat-square)
+
+**Segurança**
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-1F2937?style=flat-square)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-111827?style=flat-square)
+
+## Áreas de Interesse
+
+- Desenvolvimento Backend
+- Engenharia de Software
+- APIs e Integração de Sistemas
+- Inteligência Artificial
+- Visão Computacional
+- Cloud Computing
+- DevOps
+- Sistemas Distribuídos
+- Segurança de Software
+- Segurança da Informação
+- Sistemas Digitais e Embarcados
+
+## Certificações
+
+- Certified Secure Computer User (CSCU)
+- Network Defense Essentials
+- Linux Essentials
+- WiFi Hacking Enterprise 2.0
+- Software Security — University of Maryland
+- Segurança e Usabilidade — University of Maryland
+
+## Links profissionais
+
+- Portfólio: [https://kobie260700.github.io/](https://kobie260700.github.io/)
+- LinkedIn: [Guilherme Teixeira](https://www.linkedin.com/in/guilherme-teixeira-66076215b)
+- GitHub: [github.com/Kobie260700](https://github.com/Kobie260700)
